@@ -1,7 +1,7 @@
-nr-flows-mastr
+nr-flows-verkehrsrechner
 ==============
 
-https://github.com/sgc-kn/nr-flows-mastr
+https://github.com/sgc-kn/nr-flows-verkehrsrechner
 
 ### About
 
