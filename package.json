@@ -1,6 +1,6 @@
 {
-    "name": "nr-flows-mastr",
-    "description": "https://github.com/sgc-kn/nr-flows-mastr",
+    "name": "nr-flows-verkehrsrechner",
+    "description": "https://github.com/sgc-kn/nr-flows-verkehrsrechner",
     "version": "0.0.1",
     "dependencies": {},
     "node-red": {
